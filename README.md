@@ -1,3 +1,5 @@
+# ionic的路由跳转的性能优化的一个js文件处理逻辑
+
 Native transitions for Ionic v1. Turn it on and enjoy native transitions!
 
 ![gif](http://examples.julienrenaux.fr/native-transitions/native-transitions.gif)
